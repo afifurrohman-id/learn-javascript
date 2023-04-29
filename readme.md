@@ -1,4 +1,4 @@
-# [Learning JavaScript from 0](https://afifurrohman-id.github.io/learn-javascript)
+# Learning JavaScript from 0
 
 <!-- TODO: Try use html -->
 ##### Requirements: 
