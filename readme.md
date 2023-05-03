@@ -1,7 +1,8 @@
 # Learning JavaScript from 0
 
 <!-- TODO: Try use html -->
-##### Requirements: 
+
+## Requirements: 
 - Basic Knowledge of Html and Css
 - Deno (version >= 1.32.x) or NodeJS (version >= 20.x.x)
 
