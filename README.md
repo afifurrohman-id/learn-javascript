@@ -1,6 +1,6 @@
-# Learning JavaScript from 0
+# Learning JavaScript Journey 
 
-<!-- TODO: Try use html -->
+<!-- TODO: Try use html & add 404 page -->
 
 ## Requirements: 
 - Basic Knowledge of Html and Css
