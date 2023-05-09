@@ -1,4 +1,4 @@
-// * Data Types
+// * Data Types (Primitive)
 
 // ! String
 const name = 'afif'
@@ -20,13 +20,6 @@ console.log(typeof(isMale))
 
 // result 
 // boolean
-
-// ! Array
-const lang = ['c++', true, 1, 'typescript', 'javascript']
-console.log(typeof(lang))
-
-// result 
-// object (because array is same as object)
 
 // ! Object
 const myBio = {

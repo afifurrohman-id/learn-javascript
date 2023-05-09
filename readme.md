@@ -14,3 +14,21 @@
 
 ### [Journey 3 - Data Types](src/3/README.md)
 > [code](src/3/data-types.js)
+
+### [Journey 4 - Mathematic](src/4/README.md)
+> [code](src/4/math.js)
+
+### [Journey 5 - Boolean](src/5/README.md)
+> [code](src/5/boolean.js)
+
+### [Journey 6 - String](src/6/README.md)
+> [code](src/6/string.js)
+
+### [Journey 7 - If Else](src/7/README.md)
+> [code](src/7/if-else.js)
+
+### [Journey 8 - Looping](src/8/README.md)
+> [code](src/8/looping.js)
+
+### [Journey 9 - Switch Case](src/9/README.md)
+> [code](src/9/switch-case.js)
