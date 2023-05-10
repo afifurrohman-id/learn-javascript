@@ -1,30 +1,35 @@
-e# Mathematic Operation
+# Mathematic Operation
 
-- add (+)
+- Addition (+)
 
 ```
 1 + 3
 ```
+- Subtraction (-)
 
-- multiply (x)
+```
+50 - 5
+```
+
+- multiply (*)
 
 ```
 5 * 3
 ```
 
-- / (/)
+- Division (/)
 
 ```
 80 / 100
 ```
 
-- ** (2*)
+- Exponentiation (**)
 
 ```
 1 ** 10
 ```
 
-- % (modulo)
+- modulus (%)
 
 ```
 10 % 2
