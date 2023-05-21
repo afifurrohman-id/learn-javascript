@@ -1,6 +1,6 @@
 # Mathematic Operation
 
-- Addition (+)
+- Sum (+)
 
 ```
 1 + 3

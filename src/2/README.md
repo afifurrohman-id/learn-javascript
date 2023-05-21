@@ -3,8 +3,8 @@
 First before Javascript es6
 ```var name = 'afif'``` this is a wrong way to create a variable in javascript for (now), why ??. 
 
-because you can use a variable before initialize and not error
-(This is big problem)
+because you can use a variable before initialize and variable can use globally not use block scope, and this not error
+(so This is big problem)
 
 ### Now
 - Create variable using let
